@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "78424be314842833c04bc3bef5b72e85fff99204"
+      }
+    },
+    {
+      "identity" : "alamofireeasylogger",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jankaltoun/AlamofireEasyLogger",
+      "state" : {
+        "branch" : "master",
+        "revision" : "40224e5206d8f6561561c2b8d1a217d0c500253d"
+      }
+    }
+  ],
+  "version" : 2
+}
